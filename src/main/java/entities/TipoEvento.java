@@ -1,2 +1,5 @@
-package entities;public enum TipoEvento {
+package entities;
+
+public enum TipoEvento {
+    PUBBLICO, PRIVATO
 }
